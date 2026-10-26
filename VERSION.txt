@@ -1,0 +1,5 @@
+MANRAPI EDUTECH PORTOFOLIO ONLINE v2026-10-26-v1
+Marker cek: MANRAPI-EDUTECH-PORTOFOLIO-v2026-10-26-v1 (ada di baris ke-2 index.html)
+Jenis: situs statis (HTML + CSS, tanpa database, tanpa env var)
+Target deploy: GitHub fauzandgmanrapi-coder/manrapiedutech-portofolio -> Vercel (project: manrapiedutech)
+Domain target: https://manrapiedutech.vercel.app
